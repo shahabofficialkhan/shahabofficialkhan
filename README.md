@@ -52,10 +52,10 @@ I’m a BS(SE) student at **COMSATS University, Lahore** (CUI’29). I lead **Pr
 ---
 
 ## How to contact me
-- Email: your.email@example.com  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)  
-- Twitter/X: [@your_handle](https://twitter.com/your_handle)  
-(Replace the placeholders above with your real links.)
+- Email: muhammadshahabse@gmail.com  
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/muhammad-shahab-57a35834a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- Twitter/X: [@your_handle](https://x.com/meshahabktk?s=21)  
+
 
 ---
 
