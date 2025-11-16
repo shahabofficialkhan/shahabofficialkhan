@@ -1,5 +1,5 @@
 # Hi, I'm Muhammad Shahab 👋
-**BS Software Engineering | Team Lead — Project Aura | Flutter • Python • Prompt Engineering**
+**BS Software Engineering | Team Lead  Project Aura | Flutter • Python • Prompt Engineering**
 
 <p align="left">
   <a href="https://github.com/your-username">
@@ -21,9 +21,8 @@ I’m a BS(SE) student at **COMSATS University, Lahore** (CUI’29). I lead **Pr
 ---
 
 ## Skills
-- **Languages:** C++, Python, Dart (Flutter)
-- **Frameworks / Tools:** Flutter (iOS & Web), Git, GitHub, Zapier, basic ML/AI workflows
-- **Practices:** OOP, struct & pointer-oriented C++ refactor, prompt engineering, project documentation, CI basics
+- **Languages:** C++, Python, Java
+- **Practices:** OOP, struct & pointer-oriented C++ refactor, prompt engineering, project documentation,Programming Fundamental
 - **Soft:** Team leadership, project planning, technical documentation, mentoring
 
 ---
@@ -38,10 +37,6 @@ I’m a BS(SE) student at **COMSATS University, Lahore** (CUI’29). I lead **Pr
 - Converted a 2D array implementation to a `struct`/pointer-based design for better modularity and maintainability.
 - Focus on robustness, edge-case handling, and documentation.
 
-### Flutter iOS/Web App (Personal)
-- Built an app skeleton with an **AI-powered popup assistant** (design + integration plan).
-- Focus: user experience, modular UI components, and ChatGPT/LLM integration concept.
-
 ---
 
 ## What I’m learning
@@ -53,8 +48,10 @@ I’m a BS(SE) student at **COMSATS University, Lahore** (CUI’29). I lead **Pr
 
 ## How to contact me
 - Email: muhammadshahabse@gmail.com  
-- LinkedIn: [](https://www.linkedin.com/in/muhammad-shahab-57a35834a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-- Twitter/X: [](https://x.com/meshahabktk?s=21)  
+- LinkedIn: [Muhammad Shahab](https://www.linkedin.com/in/muhammad-shahab-57a35834a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- Twitter/X: [muhammad shahab](https://x.com/meshahabktk?s=21)
+- Tiktok: [muhammad shahab](https://www.tiktok.com/@meshahabktk?_r=1&_t=ZS-91RreWIf1uR)
+- Instagram: [Shahab logic changer](https://www.instagram.com/shahablogicchanger?igsh=ZTl4d2hkc3BrbGp5&utm_source=qr)
 
 
 ---
@@ -63,7 +60,7 @@ I’m a BS(SE) student at **COMSATS University, Lahore** (CUI’29). I lead **Pr
 - Project repositories with README, issues, PRs and release notes.
 - Dev blog posts on Medium describing architecture decisions and learning takeaways.
 - A portfolio README linking top 3 repos, demo videos, and slides.
-
+- I’ll document my entire learning journey on TikTok and Instagram.
 ---
 
 ## Quick ways you can evaluate my work
