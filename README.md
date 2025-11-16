@@ -2,13 +2,13 @@
 **BS Software Engineering | Team Lead  Project Aura | Flutter • Python • Prompt Engineering**
 
 <p align="left">
-  <a href="https://github.com/your-username">
+  <a href="Sp25-bse-102@cuilahore.edu.pk">
     <img alt="profile" src="https://img.shields.io/badge/COMSATS--CUI-Student-orange">
   </a>
-  <a href="https://github.com/your-username?tab=repositories">
+  <a href="https://github.com/shahabofficialkhan/Aura-hub">
     <img alt="repos" src="https://img.shields.io/badge/Repositories-Active-brightgreen">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:muhammadshahabse@gmail.com">
     <img alt="email" src="https://img.shields.io/badge/Contact-email-blue">
   </a>
 </p>
