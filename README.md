@@ -28,7 +28,7 @@ I’m a BS(SE) student at **COMSATS University, Lahore** (CUI’29). I lead **Pr
 ---
 
 ## Selected Projects
-### Project Aura — Phase 1 (Team Lead)
+### Project Aura Phase 1 (Team Lead)
 - Led a 10-member student team for a 28-day OOP sprint.
 - Focus: product design, sprint planning, weekly progress dashboards, and delivering MVP features.
 - Responsibilities: planning, code reviews, documentation, and presentation materials.
