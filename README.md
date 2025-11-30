@@ -1,5 +1,5 @@
 # Hi, I'm Muhammad Shahab 👋 
-**BS Software Engineering | Team Lead Project Aura | Flutter • Python • Prompt Engineering**
+**BS Software Engineering | Team Lead Project Aura | Flutter • Python • Prompt Engineering **
 
 <p align="left">
   <a href="Sp25-bse-102@cuilahore.edu.pk">
