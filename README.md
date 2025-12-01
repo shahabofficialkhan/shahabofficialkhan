@@ -12,11 +12,10 @@
     <img alt="email" src="https://img.shields.io/badge/Contact-email-blue">
   </a>
 </p>
-
 _____
 
 ## About Me
-I’m a BS(SE) student at **COMSATS University, Lahore** (CUI’29). I lead **Project Aura**, a collaborative student product development effort (10-member team) focused on building real features and documenting professional workflows. I enjoy building cross-platform apps with **Flutter**, automations with **Zapier**, and practical AI/LLM integrations using prompt engineering. I write clear code, documented READMEs, and maintain proof-of-work for internships and interviews.
+I’m a BS(SE) student at **COMSATS University, Lahore** (CUI’29). I lead **Project Aura**, a collaborative student product development effort (09-member team) focused on building real features and documenting professional workflows. I enjoy building cross-platform apps with **Flutter**, automations with **Zapier**, and practical AI/LLM integrations using prompt engineering. I write clear code, documented READMEs, and maintain proof-of-work for internships and interviews.
 
 -----
 
